@@ -1,0 +1,16 @@
+.back{
+    background: url('/img/1920x1080/background6.png') no-repeat center center;
+    position: relative;
+}
+  .container{
+  margin-top: 35px;
+}
+.cont{
+  color: black;
+}
+#img{
+  margin-top: auto;
+}
+#img1{
+  margin-top: 125px;
+}
